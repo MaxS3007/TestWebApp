@@ -1,4 +1,4 @@
-MoreIdeas Test WebApp
+#*MoreIdeas Test WebApp*#
 
 
 Пробныое приложение
